@@ -45,16 +45,16 @@ window.SITE = {
 
   // Fotos ficam em assets/img/. Para trocar, mantenha o nome do arquivo ou altere o "src".
   galeria: [
-    { src: "g01.jpg", alt: "Barba feita na navalha" },
+    { src: "g01.jpeg", alt: "Finalizando cabelo" },
     { src: "g03.jpg", alt: "Cabelo longo com degradê loiro" },
     { src: "g07.jpg", alt: "Corte masculino degradê" },
     { src: "g02.jpg", alt: "Cabelo castanho longo com cachos" },
-    { src: "g04.jpg", alt: "Barba e corte em preto e branco" },
+    { src: "g04.jpeg", alt: "Cliente muito satisfeito" },
     { src: "g09.jpg", alt: "Cabelo castanho com pontas claras" },
     { src: "g06.jpg", alt: "Corte feminino acobreado" },
     { src: "g05.jpg", alt: "Cabelo loiro com ondas" },
-    { src: "g08.jpg", alt: "Ramon fazendo a barba de um cliente" },
-    { src: "g10.jpg", alt: "Corte feminino com volume" },
+    { src: "g08.jpeg", alt: "Cliente de longa data" },
+    { src: "g10.jpeg", alt: "Barba e cabelo feitos" },
     { src: "g11.jpg", alt: "Cliente no salão com Ramon" },
     { src: "g12.jpg", alt: "Ramon com um pequeno cliente" }
   ]
